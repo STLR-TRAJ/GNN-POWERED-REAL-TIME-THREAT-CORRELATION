@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![KRSN-RT2I Logo](https://drive.google.com/file/d/18amF7QAnsu-qefG2VsGoRcqbpq2hq6Gt/view?usp=sharing)
+![KRSN-RT2I Logo](https://github.com/STLR-TRAJ/GNN-POWERED-REAL-TIME-THREAT-CORRELATION/blob/main/public/KRSN%20logo.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black)](https://nextjs.org/)
