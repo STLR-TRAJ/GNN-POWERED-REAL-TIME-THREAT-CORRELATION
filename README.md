@@ -1257,6 +1257,55 @@ NEXT_PUBLIC_ENABLE_NOTIFICATIONS=true
 
 **Project Lead & Architecture:**
 - 🎯 **Role**: Full-stack development, system architecture, AI/ML integration
+- # 📋 PROJECT PROGRESS AND MEETING CARD
+
+# GNN-POWERED REAL-TIME THREAT CORRELATION
+
+### A Project Report Submitted to
+### PARUL UNIVERSITY, FACULTY OF ENGINEERING AND TECHNOLOGY
+### CSE (CYBER) DEPARTMENT
+
+---
+
+## 📄 Project Details
+
+| Academic Year | Branch | Semester | Group ID |
+| :--- | :--- | :--- | :--- |
+| 2025-26 | CSE (CYBER) | VII | CSEPIT_318 |
+
+---
+
+## 👥 Team Information
+
+**Supervisor:** PROF. GAUTAM SINGH
+
+**Team Members:**
+
+| Sr. No. | Enrollment No. | Name of Student |
+| :--- | :--- | :--- |
+| 1 | 2203051260006 | PATIL TEJAS DINESH |
+| 2 | 2203051260042 | SABLE KRUSHNA BABASAHEB |
+| 3 | 2203051269002 | PATIL HIMANSHU CHANDRAKANT |
+| 4 | 2203051260058 | SHRUTI SHARMA |
+
+---
+
+## 🗓️ Project Timeline & Milestones
+
+| Week | Date | Key Tasks & Deliverables |
+| :--- | :--- | :--- |
+| **1** | 08/07/2025 | **Project Definition:** Defined scope, objectives, and challenges. Conducted literature review and established team roles. **Deliverable:** Project proposal and problem statement. |
+| **2** | 17/07/2025 | **System Design:** Gathered requirements, designed system architecture, and selected the technology stack. **Deliverable:** Requirements specification and architecture document. |
+| **3** | 23/07/2025 | **Research & PoC:** Researched GNNs and threat intelligence standards. Built a proof-of-concept for correlation. **Deliverable:** Research documentation. |
+| **4** | 29/07/2025 | **Backend Setup:** Designed database schema, implemented backend APIs with SQLAlchemy, and configured Docker. **Deliverable:** Database schema and backend framework. |
+| **5** | 06/08/2025 | **Core Service Development:** Developed data ingestion, CRUD operations, correlation engine, and integrated Redis. **Deliverable:** Core backend services and API documentation. |
+| **6** | 12/08/2025 | **Machine Learning Model:** Implemented GNN architecture, created graph building modules, and trained the initial model. **Deliverable:** GNN implementation and validation results. |
+| **7** | 18/08/2025 | **Frontend Development:** Developed a React dashboard, implemented real-time threat visualization, and integrated with backend APIs. **Deliverable:** Complete frontend application. |
+| **8** | 26/08/2025 | **Testing & Documentation:** Conducted unit, integration, and load testing. Performed optimization and created deployment guides. **Deliverable:** Test reports and complete documentation. |
+| **9** | 13/09/2025 | **Final Submission:** Completed end-to-end testing and prepared the final thesis, reports, and presentations. **Deliverable:** Final project submission and thesis document. |
+
+---
+
 - 📧 **Contact**: [GitHub Profile](https://github.com/STLR-TRAJ)
 
 **Research & Innovation:**
@@ -1266,7 +1315,7 @@ NEXT_PUBLIC_ENABLE_NOTIFICATIONS=true
 **Academic Supervision:**
 - 🎓 **Institution**: PARUL INSTITUTE OF TECHNOLOGY, VADODARA
 - 👨‍🏫 **Supervisor**: Prof. GAUTAM SINGH
-- 📧 **Contact**: 2203051260006@PARULUNIVERSITY.AC.IN
+- 📧 **Contact**: 
 
 ---
 
