@@ -1,15 +1,31 @@
 # 📋 PROJECT PROGRESS AND MEETING CARD
 
-A.Y. 2025-26                    BRANCH : CSE (CYBER)                        SEMESTER : VII	
-GROUP ID : CSEPIT_318
-TITLE OF THE PROJECT : GNN-POWERED REAL-TIME THREAT CORRELATION
-NAME OF THE SUPERVISOR : PROF. GAUTAM SINGH
-SR. NO.	ENROLLMENT NO.	NAME OF THE STUDENT	MOBILE NO.
-1	2203051260006	PATIL TEJAS DINESH	9503368963
-2	2203051260042	SABLE KRUSHNA BABASAHEB	8010128926
-3	2203051269002	PATIL HIMANSHU CHANDRAKANT	8668387006
-4	2203051260058	SHRUTI SHARMA	7984427926
+### A Project Report Submitted to
+### PARUL UNIVERSITY, FACULTY OF ENGINEERING AND TECHNOLOGY
+### CSE (CYBER) DEPARTMENT
 
+---
+
+## 📄 Project Details
+
+| Academic Year | Branch | Semester | Group ID |
+| :--- | :--- | :--- | :--- |
+| 2025-26 | CSE (CYBER) | VII | CSEPIT_318 |
+
+---
+
+## 👥 Team Information
+
+**Supervisor:** PROF. GAUTAM SINGH
+
+**Team Members:**
+
+| Sr. No. | Enrollment No. | Name of Student |
+| :--- | :--- | :--- |
+| 1 | 2203051260006 | PATIL TEJAS DINESH |
+| 2 | 2203051260042 | SABLE KRUSHNA BABASAHEB |
+| 3 | 2203051269002 | PATIL HIMANSHU CHANDRAKANT |
+| 4 | 2203051260058 | SHRUTI SHARMA |
 
 ---
 
@@ -250,43 +266,5 @@ SR. NO.	ENROLLMENT NO.	NAME OF THE STUDENT	MOBILE NO.
 
 ---
 
-## 📝 SUPERVISOR NOTES & FEEDBACK
-
-**Week-wise Progress Assessment:**
-
-| Week | Progress Status | Supervisor Comments | Action Items |
-|------|----------------|-------------------|--------------|
-| 1 | ⬜ On Track ⬜ Behind ⬜ Ahead | | |
-| 2 | ⬜ On Track ⬜ Behind ⬜ Ahead | | |
-| 3 | ⬜ On Track ⬜ Behind ⬜ Ahead | | |
-| 4 | ⬜ On Track ⬜ Behind ⬜ Ahead | | |
-| 5 | ⬜ On Track ⬜ Behind ⬜ Ahead | | |
-| 6 | ⬜ On Track ⬜ Behind ⬜ Ahead | | |
-| 7 | ⬜ On Track ⬜ Behind ⬜ Ahead | | |
-| 8 | ⬜ On Track ⬜ Behind ⬜ Ahead | | |
-| 9 | ⬜ On Track ⬜ Behind ⬜ Ahead | | |
-
----
-
-## 🎓 FINAL PROJECT EVALUATION
-
-**Overall Project Grade:** _____ / 100
-
-**Component-wise Evaluation:**
-- Technical Implementation (40%): _____ / 40
-- Research & Innovation (25%): _____ / 25
-- Documentation Quality (20%): _____ / 20
-- Presentation & Defense (15%): _____ / 15
-
-**Supervisor Final Comments:**
-_________________________________________________________________________________________________
-_________________________________________________________________________________________________
-_________________________________________________________________________________________________
-
-**Supervisor Signature:** ____________________     **Date:** ____________________
-
-**External Examiner Signature:** ____________________     **Date:** ____________________
-
----
 
 **Note:** This project represents advanced work in cybersecurity and artificial intelligence, with significant potential for academic publication and industry application. The integration of Graph Neural Networks with threat intelligence platforms is a novel contribution to the field.
