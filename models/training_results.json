@@ -1,0 +1,18 @@
+{
+  "training_date": "2025-09-04T00:19:52.702162",
+  "dataset_path": "data\\train.csv",
+  "model_performance": {
+    "random_forest": {
+      "accuracy": 0.9995,
+      "training_time": 0.6541686058044434
+    },
+    "neural_network": {
+      "accuracy": 0.9996,
+      "training_time": 2.3726327419281006
+    },
+    "anomaly_detector": {
+      "accuracy": 0.9861,
+      "training_time": 0.266951322555542
+    }
+  }
+}

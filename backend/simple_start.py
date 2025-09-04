@@ -1,0 +1,18 @@
+#!/usr/bin/env python3
+"""
+Simple startup script for RTIP backend
+"""
+import os
+import sys
+
+# Add the backend directory to Python path
+backend_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, backend_dir)
+
+# Set environment variables
+os.environ['PYTHONPATH'] = backend_dir
+os.chdir(backend_dir)
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run("app.main:app", host="0.0.0.0", port=8000, reload=True)
