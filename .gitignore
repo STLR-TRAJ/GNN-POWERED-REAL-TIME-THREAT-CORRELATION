@@ -1,11 +1,17 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+/node_modules/
+.pnpm-store/
+.pnp.*
 
-# next.js
+# next.js / frontends
 /.next/
 /out/
+/dist/
+/build/
+/.cache/
+/coverage/
 
 # production
 /build
@@ -15,6 +21,69 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+backend/**/*.pyc
+backend/**/__pycache__/
+
+# Databases
+*.sqlite3
+*.db
+*.db-*
+backend/rtip.db*
+backend/data/*.db
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.brf
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.thm
+*.lot
+*.lof
+*.nav
+*.snm
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Models / binaries
+models/*
+!models/README.md
+*.pkl
+*.pt
+*.onnx
+*.h5
+*.bin
+*.exe
+*.dll
+
+# Logs
+logs/
+*.log
 
 # env files
 .env*
