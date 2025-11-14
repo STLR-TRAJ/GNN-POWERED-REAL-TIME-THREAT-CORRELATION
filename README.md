@@ -668,7 +668,7 @@ docker-compose up -d
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/STLR-TRAJ/KRSN-RT2I.git
+git clone https://github.com/STLR-TRAJ/GNN-POWERED-REAL-TIME-THREAT-CORRELATION.git
 cd KRSN-RT2I
 
 # 2. Backend Setup
@@ -983,7 +983,7 @@ We welcome contributions from the cybersecurity and developer community!
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/STLR-TRAJ/KRSN-RT2I.git
+   git https://github.com/STLR-TRAJ/GNN-POWERED-REAL-TIME-THREAT-CORRELATION.git
    ```
 
 2. **Create your feature branch**
